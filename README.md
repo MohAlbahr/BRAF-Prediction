@@ -48,7 +48,7 @@ If you don’t set the token, you may encounter the following error:
 ValueError: We have no connection or you passed local_files_only, so force_download is not an accepted option.
 ```
 
-Further instructions are available on the Prov-GigaPath GitHub page.
+Further instructions are available on the [Prov-GigaPath GitHub page](https://github.com/prov-gigapath/prov-gigapath).
 
 ## Data Processing
 We use two primary datasets:
