@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+baca8b47-1f94-4d88-8c80-f334b29212bb	\N	masked_somatic_mutation	22e8528a-653c-4b16-922e-b761105f72d2	General	Notification	2022-02-28T14:12:53.976895-06:00	Approved	Variants from SomaticSniper are not included.
+70773c6b-37eb-5ad9-b9f0-c36f5ea52f22	25419	case	6c353b35-4f6d-4a36-bc8b-8a21dd0beecb	Neoadjuvant therapy	Notification	2015-02-16T00:00:00	Approved	During Enrollment it was found that patient was treated with systemic therapy (neoadjuvant anti-CTLA-4 antibody ipilimumab therapy) prior to procurement of TCGA tumor.

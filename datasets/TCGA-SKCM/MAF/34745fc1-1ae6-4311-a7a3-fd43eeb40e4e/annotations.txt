@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+5e5fda40-0722-420b-9e1f-e5965e22f6db	\N	masked_somatic_mutation	34745fc1-1ae6-4311-a7a3-fd43eeb40e4e	General	Notification	2022-02-28T15:39:32.433576-06:00	Approved	Variants from SomaticSniper are not included.
+391d0478-1c2e-5850-b064-3ed3d9ee5be9	15917	case	b9607824-a8d3-4915-ab73-962cdcfd8dc3	Acceptable treatment for TCGA tumor	Notification	2013-04-18T00:00:00	Approved	Patient received interferon for the specimen submitted to TCGA

@@ -1,0 +1,8 @@
+name: braf
+setting: binary
+label_dict:
+  0: 0
+  1: 1
+max_tiles: 40000
+shuffle_tiles: true
+add_metrics: ['bacc', 'acc']
