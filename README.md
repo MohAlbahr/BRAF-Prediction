@@ -1,12 +1,13 @@
 # A Novel Approach Combining a Whole-Slide Foundation Model and Gradient Boosting for Predicting BRAF Mutation Status in Dermatopathology
 
-![Overview Image](graphical_abstract.png)
 
 ## Overview
 
 This repository contains the code and experiments for our paper:
 
 > **"A Novel Approach Combining a Whole-Slide Foundation Model and Gradient Boosting for Predicting BRAF Mutation Status in Dermatopathology"**
+
+![Overview Image](graphical_abstract.png)
 
 Our project leverages a state-of-the-art foundation model (Prov-GigaPath) along with a gradient boosting classifier to predict the BRAF mutation status from histopathology whole-slide images. The code is organized to:
 - Segment tissues in slides.
