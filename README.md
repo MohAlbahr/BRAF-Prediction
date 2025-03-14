@@ -93,7 +93,7 @@ Different training scripts are provided for various scenarios:
 
 Train on TCGA and Test on UKE (or other test dataset): Use the provided training script (with or without validation data) as described in the manuscript. For example:
 ```bash
-./prov-gigapath/scripts/run_train_prov_CV_only_TCGA.sh
+./prov-gigapath/scripts/run_train_prov_on_TCGA_test_on_UKE.sh
 ```
 (Check the script for details—there might be separate versions for training with and without validation data.)
 
@@ -116,5 +116,5 @@ Train XGBoost on Slide Representations:
 # Acknowledgements
 We would like to express our gratitude to the authors and developers of the Prov-GigaPath foundation model. Their work has been fundamental to this project.
 
-Feel free to adjust the details as necessary, and refer to individual script comments for more in-depth information on each component. Enjoy exploring the project!
-
+# Citation
+//
