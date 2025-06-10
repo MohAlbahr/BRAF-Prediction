@@ -1,11 +1,11 @@
-# A Novel Approach Combining a Whole-Slide Foundation Model and Gradient Boosting for Predicting BRAF Mutation Status in Dermatopathology
+# A New Approach Combining a Whole-Slide Foundation Model and Gradient Boosting for Predicting BRAF Mutation Status in Dermatopathology
 
 
 ## Overview
 
 This repository contains the code and experiments for our paper:
 
-> **"A Novel Approach Combining a Whole-Slide Foundation Model and Gradient Boosting for Predicting BRAF Mutation Status in Dermatopathology"**
+> **"A New Approach Combining a Whole-Slide Foundation Model and Gradient Boosting for Predicting BRAF Mutation Status in Dermatopathology"**
 
 ![Overview Image](graphical_abstract.png)
 
@@ -116,5 +116,22 @@ Train XGBoost on Slide Representations:
 # Acknowledgements
 We would like to express our gratitude to the authors and developers of the Prov-GigaPath foundation model. Their work has been fundamental to this project.
 
-# Citation
-//
+# Funding
+This research was supported by a PhD grant from the DFG Research Training Group 2535,
+"Knowledge- and data-based personalization of medicine at the point of care (WisPerMed)," at the
+University of Duisburg–Essen, Germany.
+# How to cite
+If you find our work useful in your research or if you use parts of this code, please consider citing our paper:
+
+```
+@article{ALBAHRI2025,
+title = {A New Approach Combining a Whole-Slide Foundation Model and Gradient Boosting for Predicting BRAF Mutation Status in Dermatopathology},
+journal = {Computational and Structural Biotechnology Journal},
+year = {2025},
+issn = {2001-0370},
+doi = {https://doi.org/10.1016/j.csbj.2025.06.017},
+url = {https://www.sciencedirect.com/science/article/pii/S2001037025002338},
+author = {Mohamed Albahri and Daniel Sauter and Felix Nensa and Georg Lodde and Elisabeth Livingstone and Dirk Schadendorf and Markus Kukuk},
+keywords = {Melanoma, Deep learning, Foundation model, Machine learning, Whole slide image, Computational pathology},
+}
+´´´
